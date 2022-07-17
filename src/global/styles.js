@@ -1,0 +1,56 @@
+export const colors = {
+  buttons: "red",
+  grey1: "#43484d",
+  grey2: "#5e6977",
+  grey3: "#86939e",
+  grey4: "#bdc6cf",
+  grey5: "#e1e8ee",
+  grey6: "#edf0f5",
+  CardComment: "#86939e",
+  cardBackground: "white",
+  statusbar: "#ff8c52",
+  headertext: "white",
+  lightgreen: "#66DF48",
+};
+export const parameters = {
+  headerhiegt: 40,
+  styledbutton: {
+    backgroundColor: "red",
+    alignContent: "center",
+    justifyContent: "center",
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: "#ff8c52",
+    height: 50,
+    paddingHorizontal: 20,
+    width: "100%",
+  },
+  buttonTitle: {
+    color: "white",
+    fontSize: 20,
+    fontWeight: "bold",
+    alignItems: "center",
+    justifyContent: "center",
+    marginTop: -3,
+  },
+  button1: {
+    backgroundColor: "red",
+    alignContent: "center",
+    justifyContent: "center",
+    borderWidth: 1,
+    borderColor: "red",
+    height: 50,
+    paddingHorizontal: 20,
+    width: "100%",
+  },
+
+  title1: {
+    color: "white",
+    fontSize: 20,
+    fontWeight: "bold",
+    alignItems: "center",
+    justifyContent: "center",
+    marginTop: -3,
+  },
+};
+export const title = {};
